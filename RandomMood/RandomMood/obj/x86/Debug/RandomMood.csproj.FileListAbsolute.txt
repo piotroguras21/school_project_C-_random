@@ -1,0 +1,24 @@
+C:\Users\User\AppData\Local\Temporary Projects\RandomMood\obj\x86\Debug\RandomMood.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\RandomMood\obj\x86\Debug\RandomMood.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\RandomMood\obj\x86\Debug\RandomMood.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\bin\Debug\RandomMood.exe
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\bin\Debug\RandomMood.pdb
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.Form1.resources
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.Properties.Resources.resources
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.exe
+C:\Users\User\Desktop\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.pdb
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.exe
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.pdb
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\bin\Debug\RandomMood.exe
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\bin\Debug\RandomMood.pdb
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.Form1.resources
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.Properties.Resources.resources
+C:\Users\User\Desktop\Programowanie w C#\Random\RandomMood\RandomMood\obj\x86\Debug\RandomMood.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\obj\x86\Debug\RandomMood.exe
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\obj\x86\Debug\RandomMood.pdb
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\obj\x86\Debug\RandomMood.Form1.resources
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\obj\x86\Debug\RandomMood.Properties.Resources.resources
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\obj\x86\Debug\RandomMood.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\bin\Debug\RandomMood.exe
+C:\Users\User\Desktop\Programowanie w C#\RandomMood\RandomMood\bin\Debug\RandomMood.pdb
